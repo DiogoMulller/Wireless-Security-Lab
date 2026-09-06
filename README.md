@@ -3,7 +3,7 @@ Laboratório prático de segurança de redes wireless desenvolvido durante meus 
 
 O objetivo deste projeto é documentar a reprodução de diferentes cenários de segurança e ataque contra redes Wi-Fi em um ambiente de laboratório controlado e autorizado.
 
-<img width="375" height="666" alt="___37___1_-removebg-preview" src="https://github.com/user-attachments/assets/392b1454-5811-48ad-8f59-0a7e6fff0dfb" />
+<img width="1403" height="1121" alt="ChatGPT Image 5 de set  de 2026, 22_06_19" src="https://github.com/user-attachments/assets/ea54bf35-1955-4564-b88e-2fd19fa8c46a" />
 
 
 ## Objetivos
