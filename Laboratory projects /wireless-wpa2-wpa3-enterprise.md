@@ -43,14 +43,14 @@ O `airodump-ng` faz parte do conjunto **Aircrack-ng** e pode ser utilizado para 
 
 Entre as informações que podem ser observadas estão:
 
-| Informação | Descrição                                             .|
-|---|----------------------------------------------------------------.|
-| BSSID | Identificador do Access Point, normalmente seu endereço MAC.|
-| ESSID | Nome da rede Wi-Fi.                                         |
-| Channel | Canal utilizado pela rede.                                |
-| Encryption | Mecanismo de criptografia.                             |
-| Authentication | Método de autenticação.                            |
-| STATION | Clientes wireless observados.                             |
+| Informação | Descrição                                             |
+|---|----------------------------------------------------------------|
+| BSSID | Identificador do Access Point, normalmente seu endereço MAC|
+| ESSID | Nome da rede Wi-Fi                                         |
+| Channel | Canal utilizado pela rede                                |
+| Encryption | Mecanismo de criptografia                             |
+| Authentication | Método de autenticação                            |
+| STATION | Clientes wireless observados                             |
 
 Inicialmente, a rede corporativa utilizada no laboratório não foi identificada.
 
