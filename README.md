@@ -64,6 +64,6 @@ O objetivo deste projeto é documentar a reprodução de diferentes cenários de
 
 ## Aviso
 
-### Todos os testes deste repositório foram realizados em ambiente próprio, isolado ou explicitamente autorizado para fins educacionais.
+Todos os testes deste repositório foram realizados em ambiente próprio, isolado ou explicitamente autorizado para fins educacionais.
 
-### Não utilize estas técnicas contra redes ou dispositivos sem autorização.
+Não utilize estas técnicas contra redes ou dispositivos sem autorização.
