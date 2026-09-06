@@ -417,19 +417,19 @@ Também é necessário considerar:
 
 ### Validação de certificados
 
-Clientes devem validar corretamente os certificados apresentados durante a autenticação EAP.
+Os clientes deverão validar corretamente os certificados apresentados durante a autenticação EAP.
 
 ### Credenciais fortes
 
-Senhas fracas podem ser mais suscetíveis a ataques offline baseados em wordlists.
+Senhas fracas podem ser mais suscetíveis a ataques offline baseados em listas de palavras.
 
-### Rogue AP / Evil Twin
+### AP Renegado / Evil Twin
 
-A presença de Access Points não autorizados pode representar risco para usuários e para a infraestrutura corporativa.
+A presença de Pontos de Acesso não autorizados pode representar risco para usuários e para a infraestrutura corporativa.
 
 ### Monitoramento
 
-Redes corporativas devem possuir mecanismos capazes de identificar comportamentos anômalos e Access Points não autorizados.
+As redes corporativas devem possuir mecanismos capazes de identificar comportamentos anômalos e pontos de acesso não autorizados.
 
 ---
 
