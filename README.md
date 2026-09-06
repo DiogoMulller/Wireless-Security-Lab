@@ -3,6 +3,9 @@ Laboratório prático de segurança de redes wireless desenvolvido durante meus 
 
 O objetivo deste projeto é documentar a reprodução de diferentes cenários de segurança e ataque contra redes Wi-Fi em um ambiente de laboratório controlado e autorizado.
 
+<img width="736" height="1308" alt="_ (37)" src="https://github.com/user-attachments/assets/4d64e2b9-dc0f-46bb-b56b-cbb64f12dcf5" />
+
+
 ## Objetivos
 
 * Compreender o funcionamento das principais tecnologias de segurança Wi-Fi.
